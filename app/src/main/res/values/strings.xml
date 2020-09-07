@@ -7,4 +7,5 @@
     <string name="true_text">T</string>
     <string name="false_text">F</string>
     <string name="button_text">Submit</string>
+    <string name="correct_text">%d correct answers!</string>
 </resources>

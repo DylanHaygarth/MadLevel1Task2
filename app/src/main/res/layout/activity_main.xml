@@ -98,7 +98,9 @@
                 android:layout_weight="1"
                 android:ems="10"
                 android:gravity="center"
-                android:inputType="textPersonName" />
+                android:inputType="textPersonName"
+                android:hint="Choose T or F"
+                android:maxLength="1" />
         </TableRow>
 
         <TableRow
@@ -132,7 +134,9 @@
                 android:layout_weight="1"
                 android:ems="10"
                 android:gravity="center"
-                android:inputType="textPersonName" />
+                android:inputType="textPersonName"
+                android:hint="Choose T or F"
+                android:maxLength="1" />
         </TableRow>
 
         <TableRow
@@ -166,7 +170,9 @@
                 android:layout_weight="1"
                 android:ems="10"
                 android:gravity="center"
-                android:inputType="textPersonName" />
+                android:inputType="textPersonName"
+                android:hint="Choose T or F"
+                android:maxLength="1" />
         </TableRow>
 
         <TableRow
@@ -199,7 +205,9 @@
                 android:layout_weight="1"
                 android:ems="10"
                 android:gravity="center"
-                android:inputType="textPersonName" />
+                android:inputType="textPersonName"
+                android:hint="Choose T or F"
+                android:maxLength="1" />
         </TableRow>
     </TableLayout>
 
