@@ -3,4 +3,8 @@
     <string name="title_text">Conjunction (AND)</string>
     <string name="letter_A">A</string>
     <string name="letter_B">B</string>
+    <string name="letter_AB">A^B</string>
+    <string name="true_text">T</string>
+    <string name="false_text">F</string>
+    <string name="button_text">Submit</string>
 </resources>
